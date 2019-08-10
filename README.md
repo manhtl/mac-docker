@@ -15,7 +15,7 @@ Docker environment for multiple project.
 
  **Now, With only one a Virtualbox, I can run multiple docker environments on MAC with good performance.**
 
- ![alt text](https://github.com/manhtl/mac-docker/docker-local.jpeg "")
+ ![alt text](https://github.com/manhtl/mac-docker/blob/master/docker-local.jpeg "")
 
 ### Prerequisites
 
